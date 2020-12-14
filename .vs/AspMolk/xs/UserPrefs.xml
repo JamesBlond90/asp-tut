@@ -1,22 +1,15 @@
 ﻿<Properties StartupConfiguration="{1967D6E5-2581-4CFC-9DF5-982F22BF2B07}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AspMolk/Pages/Shared/_Layout.cshtml">
-    <Files>
-      <File FileName="AspMolk/Pages/Index.cshtml" Line="11" Column="1" />
-      <File FileName="AspMolk/Pages/p2.cshtml" Line="223" Column="12" />
-      <File FileName="AspMolk/Pages/Shared/_Layout.cshtml" Line="28" Column="100" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AspMolk" expanded="True">
+          <Node name="AspMolk" expanded="True" selected="True">
             <Node name="AspMolk" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
-              </Node>
+              <Node name="Pages" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
